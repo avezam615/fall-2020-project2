@@ -1,0 +1,24 @@
+.homepage-hero {
+    background-image: url(../images/Hero.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+.hero-text {
+    margin-top: 15%;
+}
+.about-bg {
+        background-image: url(../images/about-bg.jpg);
+        background-repeat: no-repeat;
+        background-size:cover;
+        background-attachment: fixed;
+}
+.list-bg{
+    background-color: rgba(127, 129, 158, 0.6)
+}
+.cart-bg{
+        background-image: url(../images/cart-bg.jpg);
+        background-repeat: no-repeat;
+        background-size:cover;
+        background-attachment: fixed;
+}
